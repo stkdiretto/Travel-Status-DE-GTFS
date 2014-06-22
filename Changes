@@ -1,0 +1,13 @@
+Revision history for Travel-Status-DE-GTFS
+
+0.03    2014-06-20
+        Now works as advertised with Ulm's GTFS feed, as well as CTA's and VBB's
+        Question remains: Should Date and Time be DateTime objects or strings?
+        Timezones continue being a hassle
+
+0.02    2014-06-17
+        Transferred most of the functionality from Travel::Status::DE::EFA
+
+0.01    2014-06-14
+        First version, released on an unsuspecting world.
+
