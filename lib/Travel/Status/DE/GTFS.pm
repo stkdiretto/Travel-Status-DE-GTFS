@@ -4,6 +4,8 @@ use 5.010;
 use strict;
 use warnings FATAL => 'all';
 
+use experimental 'smartmatch';
+
 use Carp qw(confess cluck);
 use DateTime;
 use DateTime::Duration;
