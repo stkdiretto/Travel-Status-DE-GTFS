@@ -1,6 +1,10 @@
 Travel::Status::DE::GTFS - Departure monitor based on a GTFS feed
 -----------------------------------------------------------------
 
+DEPENDENCIES
+------------
+libdatetime-perl libclass-accessor-perl libclass-dbi-sqlite-perl
+
 INSTALLATION
 ------------
 

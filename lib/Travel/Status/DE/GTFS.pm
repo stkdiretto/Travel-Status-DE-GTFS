@@ -338,6 +338,10 @@ one departure.
 =back
 
 
+=head1 DEPENDENCIES
+
+libdatetime-perl libclass-accessor-perl libclass-dbi-sqlite-perl
+
 =head1 ISSUES
 
 As of now, this module ignores the timezone settings within GTFS feeds, as the reference/test cases have proven this can be a pain in the butt.
